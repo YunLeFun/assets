@@ -1,0 +1,2 @@
+# assets
+CDN for Assets.
